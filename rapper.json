@@ -9,7 +9,8 @@
 		"occupation": "rapper, singer, song writer, record producer, activist, actor, philanthropist",
 		"yearsActive": "2011-present",
 		"labels": "none",
-		"children": 0
+		"children": 0,
+        "imageUrl": "https://i0.wp.com/bcc-newspack.s3.amazonaws.com/uploads/2025/08/CTR1.jpg?resize=706%2C471&ssl=1"
 	},
     "21 savage": {
         "age": 32,
@@ -21,7 +22,8 @@
         "occupation": "rapper, songwriter, record producer",
         "yearsActive": "2013–present",
         "labels": "Epic, Slaughter Gang",
-        "children": 3
+        "children": "<a id='ArWfrJjSQyR2SYkfT0qjfg' class='gie-slideshow' href='http://www.gettyimages.com/detail/1499377538' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'ArWfrJjSQyR2SYkfT0qjfg',sig:'Qts4iCV_0cGGgmmQSSJkA27gQq207RaqRHrevtNvFBY=',w:'594px',h:'381px',items:'1499377538,1499377368,1555111590,1499377337,1499377407',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>",
+        "imageUrl": ""
     },
     "50 cent": {
         "age": 50,
@@ -33,7 +35,8 @@
         "occupation": "rapper, actor, entrepreneur, producer",
         "yearsActive": "1996–present",
         "labels": "Interscope, Shady, Aftermath, G-Unit, Caroline, Capitol",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "a boogie wit da hoodie": {
         "age": 29,
@@ -45,7 +48,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2014–present",
         "labels": "Highbridge, Atlantic",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "a$ap rocky": {
         "age": 36,
@@ -57,7 +61,8 @@
         "occupation": "rapper, singer, songwriter, actor, model",
         "yearsActive": "2007–present",
         "labels": "RCA, ASAP Worldwide, Polo Grounds",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "black sherif": {
         "age": 22,
@@ -69,7 +74,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2019–present",
         "labels": "Empire, Blacko Management",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
 
     "busta rhymes": {
@@ -82,7 +88,8 @@
         "occupation": "rapper, singer, songwriter, record producer, actor",
         "yearsActive": "1989–present",
         "labels": "Conglomerate, Cash Money, Aftermath, J Records, Elektra",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "cam’ron": {
         "age": 48,
@@ -94,7 +101,8 @@
         "occupation": "rapper, actor, entrepreneur",
         "yearsActive": "1993–present",
         "labels": "Diplomat, eOne, Epic, Roc-A-Fella, Untertainment",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "cardi b": {
         "age": 32,
@@ -106,7 +114,8 @@
         "occupation": "rapper, songwriter, actress",
         "yearsActive": "2015–present",
         "labels": "Atlantic",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "cassper nyovest": {
         "age": 34,
@@ -118,7 +127,8 @@
         "occupation": "rapper, songwriter, entrepreneur, record producer",
         "yearsActive": "2003–present",
         "labels": "Family Tree",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "chief keef": {
         "age": 29,
@@ -130,7 +140,8 @@
         "occupation": "rapper, record producer",
         "yearsActive": "2011–present",
         "labels": "Glory Boyz, Interscope, 1017, RBC",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "dababy": {
         "age": 33,
@@ -142,7 +153,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2014–present",
         "labels": "Interscope, South Coast, Billion Dollar Baby",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "d-black": {
         "age": 37,
@@ -154,7 +166,8 @@
         "occupation": "rapper, entrepreneur",
         "yearsActive": "2009–present",
         "labels": "Black Avenue Muzik",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "dmx": {
         "age": 50,
@@ -166,7 +179,8 @@
         "occupation": "rapper, songwriter, actor",
         "yearsActive": "1991–2021",
         "labels": "Def Jam, Ruff Ryders",
-        "children": 15
+        "children": 1,
+        "imageUrl": ""5
     },
     "doja cat": {
         "age": 29,
@@ -178,7 +192,8 @@
         "occupation": "rapper, singer, songwriter, record producer",
         "yearsActive": "2013–present",
         "labels": "Kemosabe, RCA",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "drake": {
         "age": 38,
@@ -190,7 +205,8 @@
         "occupation": "rapper, singer, songwriter, actor, entrepreneur",
         "yearsActive": "2001–present",
         "labels": "OVO Sound, Young Money, Cash Money, Republic",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "dremo": {
         "age": 31,
@@ -202,7 +218,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2013–present",
         "labels": "Davido Music Worldwide (former), independent",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
 
     "emtee": {
@@ -215,7 +232,8 @@
         "occupation": "rapper, songwriter, record producer",
         "yearsActive": "2010–present",
         "labels": "Emtee Records, Ambitiouz Entertainment (former)",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "eminem": {
         "age": 51,
@@ -227,7 +245,8 @@
         "occupation": "rapper, songwriter, record producer, actor",
         "yearsActive": "1988–present",
         "labels": "Aftermath, Shady, Interscope, Web Entertainment",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "eve": {
         "age": 45,
@@ -239,7 +258,8 @@
         "occupation": "rapper, singer, actress",
         "yearsActive": "1996–present",
         "labels": "Ruff Ryders, Aftermath, Interscope, Full Surface",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "fabolous": {
         "age": 46,
@@ -251,7 +271,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "1998–present",
         "labels": "Desert Storm, Elektra, Def Jam",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "falz": {
         "age": 34,
@@ -263,7 +284,8 @@
         "occupation": "rapper, actor, songwriter, activist",
         "yearsActive": "2009–present",
         "labels": "Bahd Guys Records",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "fat joe": {
         "age": 54,
@@ -275,7 +297,8 @@
         "occupation": "rapper, actor",
         "yearsActive": "1992–present",
         "labels": "Terror Squad, E1, Atlantic",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "future": {
         "age": 40,
@@ -287,7 +310,8 @@
         "occupation": "rapper, singer, songwriter, record producer",
         "yearsActive": "2004–present",
         "labels": "Epic, Freebandz, A1, RCA",
-        "children": 8
+        "children": 8,
+        "imageUrl": ""
     },
     "g herbo": {
         "age": 29,
@@ -299,7 +323,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2012–present",
         "labels": "Machine, Epic",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "gunna": {
         "age": 31,
@@ -311,7 +336,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2013–present",
         "labels": "YSL, 300 Entertainment, Atlantic",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "ice cube": {
         "age": 55,
@@ -323,7 +349,8 @@
         "occupation": "rapper, actor, filmmaker",
         "yearsActive": "1986–present",
         "labels": "Lench Mob, Interscope, Priority",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "ice prince": {
         "age": 38,
@@ -335,7 +362,8 @@
         "occupation": "rapper, songwriter, actor",
         "yearsActive": "2004–present",
         "labels": "Chocolate City (former), Super Cool Cats",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "ice spice": {
         "age": 24,
@@ -347,7 +375,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2021–present",
         "labels": "10K Projects, Capitol",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "ja rule": {
         "age": 48,
@@ -359,7 +388,8 @@
         "occupation": "rapper, singer, actor",
         "yearsActive": "1993–present",
         "labels": "Murder Inc., Def Jam, Mpire",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "jay-z": {
         "age": 54,
@@ -371,7 +401,8 @@
         "occupation": "rapper, songwriter, record executive, businessman",
         "yearsActive": "1986–present",
         "labels": "Roc Nation, Def Jam, Roc-A-Fella, Atlantic",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "jeezy": {
         "age": 47,
@@ -383,7 +414,8 @@
         "occupation": "rapper, songwriter, actor",
         "yearsActive": "1997–present",
         "labels": "Def Jam, CTE World",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "jim jones": {
         "age": 48,
@@ -395,7 +427,8 @@
         "occupation": "rapper, music video director, entrepreneur",
         "yearsActive": "1997–present",
         "labels": "Diplomat, Koch, E1, Roc Nation",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "j. cole": {
         "age": 39,
@@ -407,7 +440,8 @@
         "occupation": "rapper, singer, songwriter, record producer",
         "yearsActive": "2007–present",
         "labels": "Dreamville, Roc Nation, Columbia",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "juelz santana": {
         "age": 42,
@@ -419,7 +453,8 @@
         "occupation": "rapper, actor",
         "yearsActive": "1995–present",
         "labels": "Diplomat, Def Jam",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
 
     "juice wrld": {
@@ -432,7 +467,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2015–2019",
         "labels": "Grade A, Interscope",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "kanye west": {
         "age": 47,
@@ -444,7 +480,8 @@
         "occupation": "rapper, singer, songwriter, record producer, fashion designer",
         "yearsActive": "1996–present",
         "labels": "GOOD Music, Roc-A-Fella, Def Jam",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "kid cudi": {
         "age": 40,
@@ -456,7 +493,8 @@
         "occupation": "rapper, singer, songwriter, record producer, actor",
         "yearsActive": "2003–present",
         "labels": "Republic, Wicked Awesome, Dream On, GOOD Music",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "king promise": {
         "age": 29,
@@ -468,7 +506,8 @@
         "occupation": "singer, songwriter",
         "yearsActive": "2016–present",
         "labels": "Legacy Life Entertainment",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "king von": {
         "age": 26,
@@ -480,7 +519,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2018–2020",
         "labels": "Only the Family, Empire, Get Back Gang",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "kodak black": {
         "age": 27,
@@ -492,7 +532,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2009–present",
         "labels": "Atlantic, Sniper Gang",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "krs-one": {
         "age": 59,
@@ -504,7 +545,8 @@
         "occupation": "rapper, activist, record producer",
         "yearsActive": "1986–present",
         "labels": "Jive, Duck Down, Koch",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "kwesi arthur": {
         "age": 30,
@@ -516,7 +558,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2016–present",
         "labels": "Ground Up Chale",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "lauryn hill": {
         "age": 49,
@@ -528,7 +571,8 @@
         "occupation": "rapper, singer, songwriter, actress, record producer",
         "yearsActive": "1988–present",
         "labels": "Columbia, Ruffhouse",
-        "children": 6
+        "children": 6,
+        "imageUrl": ""
     },
     "latto": {
         "age": 25,
@@ -540,7 +584,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2016–present",
         "labels": "Streamcut, RCA",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "lil durk": {
         "age": 31,
@@ -552,7 +597,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2011–present",
         "labels": "Only the Family, Alamo, Interscope",
-        "children": 6
+        "children": 6,
+        "imageUrl": ""
     },
     "lil jon": {
         "age": 53,
@@ -564,7 +610,8 @@
         "occupation": "rapper, DJ, record producer",
         "yearsActive": "1991–present",
         "labels": "BME, TVT, Universal Republic",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "lil kesh": {
         "age": 29,
@@ -576,7 +623,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2012–present",
         "labels": "YBNL Nation, YAGI",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "lil uzi vert": {
         "age": 30,
@@ -588,7 +636,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2010–present",
         "labels": "Generation Now, Atlantic",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "lil wayne": {
         "age": 42,
@@ -600,7 +649,8 @@
         "occupation": "rapper, singer, songwriter, record executive",
         "yearsActive": "1995–present",
         "labels": "Young Money, Cash Money, Republic",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "ll cool j": {
         "age": 56,
@@ -612,7 +662,8 @@
         "occupation": "rapper, actor, entrepreneur, author",
         "yearsActive": "1984–present",
         "labels": "Def Jam",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "ludacris": {
         "age": 47,
@@ -624,7 +675,8 @@
         "occupation": "rapper, actor, songwriter, record producer",
         "yearsActive": "1998–present",
         "labels": "Disturbing tha Peace, Def Jam South",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "m.anifest": {
         "age": 42,
@@ -636,7 +688,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2005–present",
         "labels": "Singitdamnit Music",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "medikal": {
         "age": 31,
@@ -648,7 +701,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2010–present",
         "labels": "AMG Business",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "megan thee stallion": {
         "age": 29,
@@ -660,7 +714,8 @@
         "occupation": "rapper, songwriter, actress",
         "yearsActive": "2016–present",
         "labels": "300 Entertainment, Warner Music",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "meek mill": {
         "age": 37,
@@ -672,7 +727,8 @@
         "occupation": "rapper, songwriter, activist",
         "yearsActive": "2003–present",
         "labels": "Dream Chasers, Maybach Music, Atlantic",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "method man": {
         "age": 53,
@@ -684,7 +740,8 @@
         "occupation": "rapper, actor, songwriter, record producer",
         "yearsActive": "1992–present",
         "labels": "Def Jam, Loud",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "missy elliott": {
         "age": 53,
@@ -696,7 +753,8 @@
         "occupation": "rapper, singer, songwriter, record producer",
         "yearsActive": "1991–present",
         "labels": "Atlantic, Goldmind, East West",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "m.i abaga": {
         "age": 43,
@@ -708,7 +766,8 @@
         "occupation": "rapper, songwriter, record producer",
         "yearsActive": "2003–present",
         "labels": "Chocolate City, Incredible Music",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "mos def": {
         "age": 50,
@@ -720,7 +779,8 @@
         "occupation": "rapper, singer, songwriter, actor, activist",
         "yearsActive": "1993–present",
         "labels": "Rawkus, Geffen, Downtown",
-        "children": 6
+        "children": 6,
+        "imageUrl": ""
     },
 
  "naira marley": {
@@ -733,7 +793,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2014–present",
         "labels": "Marlian Music",
-        "children": 4
+        "children": 4,
+        "imageUrl": ""
     },
     "nas": {
         "age": 51,
@@ -745,7 +806,8 @@
         "occupation": "rapper, songwriter, entrepreneur, record producer, actor",
         "yearsActive": "1991–present",
         "labels": "Mass Appeal, Def Jam, Columbia",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "nicki minaj": {
         "age": 41,
@@ -757,7 +819,8 @@
         "occupation": "rapper, singer, songwriter, actress",
         "yearsActive": "2004–present",
         "labels": "Young Money, Cash Money, Republic",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "nipsey hussle": {
         "age": 33,
@@ -769,7 +832,8 @@
         "occupation": "rapper, activist, entrepreneur",
         "yearsActive": "2005–2019",
         "labels": "All Money In, Atlantic, Epic",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "notorious b.i.g.": {
         "age": 24,
@@ -781,7 +845,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "1992–1997",
         "labels": "Bad Boy, Arista, Uptown",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "nsikak": {
         "age": 0,
@@ -793,7 +858,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2010–present",
         "labels": "Independent",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "nyashinski": {
         "age": 42,
@@ -805,7 +871,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "1999–present",
         "labels": "Independent",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "offset": {
         "age": 33,
@@ -817,7 +884,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2008–present",
         "labels": "Quality Control, Motown, Capitol",
-        "children": 5
+        "children": 5,
+        "imageUrl": ""
     },
     "olamide": {
         "age": 35,
@@ -829,7 +897,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2010–present",
         "labels": "YBNL Nation, Empire",
-        "children": 3
+        "children": 3,
+        "imageUrl": ""
     },
     "papoose": {
         "age": 46,
@@ -841,7 +910,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "1998–present",
         "labels": "Flipmode, Koch, Empire",
-        "children": 2
+        "children": 2,
+        "imageUrl": ""
     },
     "patoranking": {
         "age": 34,
@@ -853,7 +923,8 @@
         "occupation": "singer, songwriter",
         "yearsActive": "2010–present",
         "labels": "Amari Musiq, VP Records",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "phyno": {
         "age": 38,
@@ -865,7 +936,8 @@
         "occupation": "rapper, singer, songwriter",
         "yearsActive": "2003–present",
         "labels": "Penthauze, Sputnet",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "playboi carti": {
         "age": 28,
@@ -877,7 +949,8 @@
         "occupation": "rapper, songwriter, model",
         "yearsActive": "2011–present",
         "labels": "AWGE, Interscope",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "pop smoke": {
         "age": 20,
@@ -889,7 +962,8 @@
         "occupation": "rapper, songwriter",
         "yearsActive": "2018–2020",
         "labels": "Victor Victor, Republic",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
     "post malone": {
         "age": 29,
@@ -901,7 +975,8 @@
         "occupation": "rapper, singer, songwriter, record producer",
         "yearsActive": "2011–present",
         "labels": "Republic",
-        "children": 1
+        "children": 1,
+        "imageUrl": ""
     },
     "puff daddy": {
         "age": 54,
@@ -913,7 +988,8 @@
         "occupation": "rapper, record producer, record executive, entrepreneur",
         "yearsActive": "1990–present",
         "labels": "Bad Boy, Uptown, Epic",
-        "children": 7
+        "children": 7,
+        "imageUrl": ""
     },
     "quavo": {
         "age": 33,
@@ -925,7 +1001,8 @@
         "occupation": "rapper, singer, songwriter, record producer",
         "yearsActive": "2008–present",
         "labels": "Quality Control, Motown, Capitol",
-        "children": 0
+        "children": 0,
+        "imageUrl": ""
     },
 
 	"rakim": {
@@ -938,7 +1015,8 @@
 		"occupation": "rapper, songwriter, record producer",
 		"yearsActive": "1985–present",
 		"labels": "MCA, Universal, Koch, Ra Records",
-		"children": 2
+		"children": 2,
+        "imageUrl": ""
 	},
 	"redman": {
 		"age": 54,
@@ -950,7 +1028,8 @@
 		"occupation": "rapper, DJ, record producer, actor",
 		"yearsActive": "1990–present",
 		"labels": "Def Jam, Gilla House",
-		"children": 5
+		"children": 5,
+        "imageUrl": ""
 	},
 	"remy ma": {
 		"age": 44,
@@ -962,7 +1041,8 @@
 		"occupation": "rapper, songwriter",
 		"yearsActive": "1998–present",
 		"labels": "Columbia, SRC, Universal",
-		"children": 2
+		"children": 2,
+        "imageUrl": ""
 	},
 	"rick ross": {
 		"age": 48,
@@ -974,7 +1054,8 @@
 		"occupation": "rapper, record executive, entrepreneur",
 		"yearsActive": "2000–present",
 		"labels": "Maybach Music Group, Epic, Def Jam, Slip-n-Slide",
-		"children": 4
+		"children": 4,
+        "imageUrl": ""
 	},
 	"roddy ricch": {
 		"age": 25,
@@ -986,7 +1067,8 @@
 		"occupation": "rapper, singer, songwriter",
 		"yearsActive": "2017–present",
 		"labels": "Atlantic, Bird Vision",
-		"children": 1
+		"children": 1,
+        "imageUrl": ""
 	},
 	"saweetie": {
 		"age": 31,
@@ -998,7 +1080,8 @@
 		"occupation": "rapper, songwriter, businesswoman",
 		"yearsActive": "2017–present",
 		"labels": "Icy, Warner, Artistry, Warner Records",
-		"children": 0
+		"children": 0,
+        "imageUrl": ""
 	},
 	"sarkodie": {
 		"age": 39,
@@ -1010,7 +1093,8 @@
 		"occupation": "rapper, songwriter, entrepreneur",
 		"yearsActive": "2005–present",
 		"labels": "SarkCess Music",
-		"children": 2
+		"children": 2,
+        "imageUrl": ""
 	},
 	"sheck wes": {
 		"age": 26,
@@ -1022,7 +1106,8 @@
 		"occupation": "rapper, songwriter, model",
 		"yearsActive": "2017–present",
 		"labels": "Cactus Jack, G.O.O.D. Music, Interscope",
-		"children": 0
+		"children": 0,
+        "imageUrl": ""
 	},
 	"shatta wale": {
 		"age": 40,
@@ -1034,7 +1119,8 @@
 		"occupation": "singer, songwriter, record producer, actor",
 		"yearsActive": "2004–present",
 		"labels": "Shatta Movement Records, Zylofon Music",
-		"children": 3
+		"children": 3,
+        "imageUrl": ""
 	},
 	"skepta": {
 		"age": 42,
@@ -1046,7 +1132,8 @@
 		"occupation": "rapper, songwriter, record producer, DJ",
 		"yearsActive": "2003–present",
 		"labels": "Boy Better Know, XL, All Around the World",
-		"children": 1
+		"children": 1,
+        "imageUrl": ""
 	},
 
 	"snoop dogg": {
@@ -1059,7 +1146,8 @@
 		"occupation": "rapper, songwriter, actor, entrepreneur",
 		"yearsActive": "1992–present",
 		"labels": "Death Row, No Limit, Priority, Geffen, RCA, Doggystyle, I Am Other",
-		"children": 4
+		"children": 4,
+        "imageUrl": ""
 	},
 	"soulja boy": {
 		"age": 34,
@@ -1071,7 +1159,8 @@
 		"occupation": "rapper, record producer, entrepreneur",
 		"yearsActive": "2004–present",
 		"labels": "Stacks on Deck, Interscope, Collipark, Universal",
-		"children": 1
+		"children": 1,
+        "imageUrl": ""
 	},
 	"takeoff": {
 		"age at death": 28,
@@ -1083,7 +1172,8 @@
 		"occupation": "rapper, songwriter",
 		"yearsActive": "2008–2022",
 		"labels": "Quality Control, Motown, Capitol, Atlantic",
-		"children": 0
+		"children": 0,
+        "imageUrl": ""
 	},
 	"t.i.": {
 		"age": 43,
@@ -1095,7 +1185,8 @@
 		"occupation": "rapper, songwriter, record executive, actor, entrepreneur",
 		"yearsActive": "1999–present",
 		"labels": "Grand Hustle, Atlantic, Columbia, Epic, Arista",
-		"children": 7
+		"children": 7,
+        "imageUrl": ""
 	},
 	"travis scott": {
 		"age": 33,
@@ -1107,7 +1198,8 @@
 		"occupation": "rapper, singer, songwriter, record producer",
 		"yearsActive": "2008–present",
 		"labels": "Cactus Jack, Epic, Grand Hustle",
-		"children": 2
+		"children": 2,
+        "imageUrl": ""
 	},
 	"trippie redd": {
 		"age": 25,
@@ -1119,7 +1211,8 @@
 		"occupation": "rapper, singer, songwriter",
 		"yearsActive": "2014–present",
 		"labels": "TenThousand, 1400 Entertainment, Capitol",
-		"children": 0
+		"children": 0,
+        "imageUrl": ""
 	},
 	"tyler, the creator": {
 		"age": 33,
@@ -1131,7 +1224,8 @@
 		"occupation": "rapper, singer, songwriter, record producer, music video director, fashion designer",
 		"yearsActive": "2007–present",
 		"labels": "Odd Future, Columbia, XL",
-		"children": 0
+		"children": 0,
+        "imageUrl": ""
 	},
 	"wale": {
 		"age": 40,
@@ -1143,7 +1237,8 @@
 		"occupation": "rapper, songwriter",
 		"yearsActive": "2005–present",
 		"labels": "Allido, Interscope, Maybach, Warner",
-		"children": 1
+		"children": 1,
+        "imageUrl": ""
 	},
 	"wiz khalifa": {
 		"age": 37,
@@ -1155,7 +1250,8 @@
 		"occupation": "rapper, singer, songwriter, actor",
 		"yearsActive": "2005–present",
 		"labels": "Taylor Gang, Atlantic, Rostrum, Warner",
-		"children": 1
+		"children": 1,
+        "imageUrl": ""
 	},
 	"xxxtentacion": {
 		"age at death": 20,
@@ -1167,7 +1263,8 @@
 		"occupation": "rapper, singer, songwriter",
 		"yearsActive": "2013–2018",
 		"labels": "Bad Vibes Forever, Empire, Caroline, Capitol",
-		"children": 1
+		"children": 1,
+        "imageUrl": ""
 	},
 	"yg": {
 		"age": 34,
@@ -1179,7 +1276,8 @@
 		"occupation": "rapper, songwriter, actor",
 		"yearsActive": "2009–present",
 		"labels": "Def Jam, CTE World, Pu$haz Ink",
-		"children": 2
+		"children": 2,
+        "imageUrl": ""
 	},
 
     "tupac": {
@@ -1192,7 +1290,8 @@
   "occupation": "rapper, songwriter, actor, activist, poet",
   "yearsActive": "1989–1996",
   "labels": "Interscope, Death Row, Atlantic, TNT, Out da Gutta",
-  "children": 0
+  "children": ,
+  "imageUrl": ""
 },
 "notorious big": {
   "age": 24,
@@ -1204,7 +1303,8 @@
   "occupation": "rapper, songwriter",
   "yearsActive": "1992–1997",
   "labels": "Bad Boy, Atlantic, Arista, Uptown",
-  "children": 2
+  "children": ,
+  "imageUrl": ""
 },
 "eazy e": {
   "age": 30,
@@ -1216,7 +1316,8 @@
   "occupation": "rapper, record producer, entrepreneur",
   "yearsActive": "1986–1995",
   "labels": "Ruthless, Priority",
-  "children": 3
+  "children": ,
+  "imageUrl": ""
 },
 "mf doom": {
   "age": 49,
@@ -1228,7 +1329,8 @@
   "occupation": "rapper, songwriter, record producer",
   "yearsActive": "1988–1993, 1997–2020",
   "labels": "Metal Face, Fondle 'Em, Stones Throw, Nature Sounds, Lex, Rhymesayers, Elektra",
-  "children": 5
+  "children": ,
+  "imageUrl": ""
 },
 
 "mac miller": {
@@ -1241,7 +1343,8 @@
   "occupation": "rapper, singer, songwriter, record producer",
   "yearsActive": "2007–2018",
   "labels": "Rostrum, REMember, Warner Bros.",
-  "children": 0
+  "children": ,
+  "imageUrl": ""
 },
 
 "gangsta boo": {
@@ -1254,7 +1357,8 @@
   "occupation": "rapper",
   "yearsActive": "1994–2023",
   "labels": "Prophet, Hypnotize Minds, Drum Squad",
-  "children": 0
+  "children": ,
+  "imageUrl": ""
 },
 
 "pimp c": {
@@ -1267,7 +1371,8 @@
   "occupation": "rapper, singer, songwriter, record producer",
   "yearsActive": "1987–2007",
   "labels": "Atlantic, Rap‑A‑Lot, Asylum, Jive",
-  "children": 3
+  "children": ,
+  "imageUrl": ""
 },
 
 "heavy d": {
@@ -1280,7 +1385,8 @@
   "occupation": "rapper, record producer, songwriter, singer, actor",
   "yearsActive": "1986–2011",
   "labels": "Uptown, MCA",
-  "children": 1
+  "children": ,
+  "imageUrl": ""
 },
 
 "coolio": {
@@ -1293,7 +1399,8 @@
   "occupation": "rapper, songwriter, record producer, actor",
   "yearsActive": "1987–2022",
   "labels": "Tommy Boy, Warner Bros., Allied Artists",
-  "children": 10
+  "children": ,
+  "imageUrl": ""0
 },
 
 "big pun": {
@@ -1306,7 +1413,8 @@
   "occupation": "rapper, songwriter",
   "yearsActive": "1995–2000",
   "labels": "Loud, Terror Squad, RAL",
-  "children": 3
+  "children": ,
+  "imageUrl": ""
 },
 "ol dirty bastard": {
   "age": 35,
@@ -1318,7 +1426,8 @@
   "occupation": "rapper, songwriter",
   "yearsActive": "1992–2004",
   "labels": "Loud, Elektra, Warner, Roc‑A‑Fella",
-  "children": 7
+  "children": ,
+  "imageUrl": ""
 },
 "prodigy mobb deep": {
   "age": 42,
@@ -1330,7 +1439,8 @@
   "occupation": "rapper, songwriter, record producer, record executive",
   "yearsActive": "1991–2017",
   "labels": "Infamous, Loud, SRC, G‑Unit, Sony, RED, E1",
-  "children": 2
+  "children": ,
+  "imageUrl": ""
 },
 	"unknown": {
 		"age": "unknown",
@@ -1342,6 +1452,7 @@
 		"occupation": "unknown",
 		"yearsActive": "unknown",
 		"labels": "unknown",
-		"children": "unknown"
+		"children": ",
+        "imageUrl": ""unknown"
 	}
 }
