@@ -875,6 +875,21 @@
 		"children": 2,
 		"imageUrl": "https://i.pinimg.com/1200x/d2/c8/23/d2c82382d814b1516fd8a3ebb73eb573.jpg"
 	},
+
+    "kendrick": {
+        "age": 37,
+        "birthName": "Kendrick Lamar Duckworth",
+        "birthdate": "June 17, 1987",
+        "birthLocation": "Compton, California, U.S.",
+        "origin": "Compton, California",
+        "genre": "hip hop, conscious rap, jazz rap, West Coast hip hop",
+        "occupation": "rapper, songwriter, record producer",
+        "yearsActive": "2004–present",
+        "labels": "Top Dawg, Aftermath, Interscope, pgLang",
+        "children": 2,
+		"imageUrl":	"https://i.pinimg.com/1200x/3a/94/a0/3a94a03c85602995f900415248c61905.jpg"
+
+    },
 	"offset": {
 		"age": 33,
 		"birthName": "Kiari Kendrell Cephus",
